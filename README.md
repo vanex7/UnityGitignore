@@ -1,0 +1,2 @@
+# UnityGitignore
+UnityGitignore
